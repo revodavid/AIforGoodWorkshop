@@ -18,6 +18,8 @@ This library includes three notebooks to support the workshop:
 
 These notebooks are hosted on Azure Notebooks at https://notebooks.azure.com/davidsmi/libraries/aiforgood, where you can run them interactively. You can also download them to run them using Jupyter.
 
+Find the [slides for the workshop](https://github.com/revodavid/AIforGoodWorkshop/raw/master/AI%20For%20Good-David_Smith-ODSC%20Nov%202018.pdf) here.
+
 ## Contact
 
 If you get stuck or just have other questions, you can contact me here:
